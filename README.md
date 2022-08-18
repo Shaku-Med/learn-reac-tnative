@@ -1,4 +1,4 @@
-# learn-react-tnative
+# Learning-React-Native, Android App Dev, Web Dev, Game Dev, Cyber Attack Protector. 
 My First Time Touching React Native. 
 
 1. Installing React Native. First I need to download Node, Later I download expo go on my device or I Could Even Download Android Stimulator on my pc to be able to run it on android since I do not use android. 
@@ -8,4 +8,4 @@ My First Time Touching React Native.
 
 3. HELLO! Welcome to the expirences I go through, Through my course To become a Mobile App Developer, Cyber Attack Protector, Web Dev, Databases, Game Developer...
 
-**Thanks For Reading. My Name is Mohamed Amara, I'm a student currently studying at CSI. Cuny College of Staten Island in New Yourk**
+**Thanks For Reading. My Name is Mohamed Amara, I'm a student currently studying at CSI. Cuny College of Staten Island in New York**
